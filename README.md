@@ -1,10 +1,2 @@
-### Hi there 👋
-
-<!--
-**Xavier-Waters/Xavier-Waters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on completing the mooc.fi programming-22 course and ricing my linux setup
-- 🌱 I’m currently learning python
-- 📫 How to reach me: Email: Xavier.Waters@protonmail.com or Matrix: @z:incognitum.xyz
+I’m currently working on completing the mooc.fi programming-22 course and ricing my linux setup
+[![Xavier's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xavier-Waters)](https://github.com/anuraghazra/github-readme-stats)
